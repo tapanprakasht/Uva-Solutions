@@ -1,4 +1,5 @@
 #include<iostream>
+
 using namespace std;
 long long findReverse(long long n) {
   long long mod,rev=0;
